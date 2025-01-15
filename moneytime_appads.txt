@@ -1,6 +1,6 @@
 #
 Admob
-google.com, pub-3453663419635375, DIRECT, f08c47fec0942fa0
+google.com, pub-5303243072363468, DIRECT, f08c47fec0942fa0
 
 #
 Facebook
