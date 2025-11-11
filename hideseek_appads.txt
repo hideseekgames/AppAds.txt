@@ -1669,6 +1669,23 @@ triplelift.com,14594-EB,RESELLER,6c33edb13117fd86
 video.unrulymedia.com,667989109,RESELLER
 video.unrulymedia.com,739131256,RESELLER
 zmaticoo.com,5135535,RESELLER
+Media.net,8CU47MDK1,RESELLER,818f58666cabc936
+adorphic.com,2480,RESELLER 
+anzu.io,6900b774b2404d7153408d09,RESELLER,1c1b7acf4992136c 
+appnexus.com,17553,RESELLER,f5ab79cb980f11d1 
+dauup.com,34105,RESELLER,4daba13e2b0dfd92 
+improvedigital.com,2625,RESELLER 
+outbrain.com,0073fa86cff719c752763d2c3ee52c8f00,RESELLER 
+pubmatic.com,158903,RESELLER,5d62403b186f2ace 
+pubnative.net,1016768,RESELLER,d641df8625486a7b 
+rubiconproject.com,17476,RESELLER,0bfd66d529a55807 
+smaato.com,1100057655,RESELLER,07bcf65f187117b4 
+ssp.cadent.com,2599,RESELLER,1e1d41537f7cad7f 
+thunder-monetize.com,1007485,RESELLER 
+thunder-monetize.com,20744,RESELLER 
+triplelift.com,12465,RESELLER,6c33edb13117fd86 
+video.unrulymedia.com,390525644,RESELLER 
+zetaglobal.net,512,RESELLER
 
 #
 vungle.com,64ccf2e71e51370011235638,DIRECT,c107d686becd2d77
